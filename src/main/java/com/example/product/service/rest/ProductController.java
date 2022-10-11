@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import org.axonframework.commandhandling.gateway.CommandGateway;
 
 import java.util.UUID;
-
+//test
 @RestController
 @RequestMapping("/products")
 public class ProductController {
